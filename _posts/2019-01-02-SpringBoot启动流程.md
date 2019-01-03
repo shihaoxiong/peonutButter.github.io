@@ -1,3 +1,7 @@
+---
+tags:
+	-SpringBoot
+---
 # SpringBoot 工作机制
 ​          **SpringBoot 框架是Spring框架对“约定优先于配置”理念的最佳产物**。
 
