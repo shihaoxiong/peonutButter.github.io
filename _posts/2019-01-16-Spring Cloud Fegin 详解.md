@@ -2,7 +2,7 @@
 layout:     post                    # 使用的布局（不需要改）
 title:     Spring Cloud Fegin 详解(一)               # 标题 
 subtitle:   Spring Cloud Fegin 工作原理
-date:       2019-01-14              # 时间
+date:       2019-01-16              # 时间
 author:     BY                      # 作者
 catalog: true                       # 是否归档
 tags:                               #标签
