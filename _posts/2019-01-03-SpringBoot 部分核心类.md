@@ -1,7 +1,12 @@
 ---
-tags:
-	-SpringBoot
-
+layout:     post                    # 使用的布局（不需要改）
+title:      SpringBoot核心类               # 标题 
+subtitle:    SpringBoot 部分核心类 #副标题
+date:       2019-01-06              # 时间
+author:     BY                      # 作者
+catalog: true                       # 是否归档
+tags:                               #标签
+    - Spring Boot
 ---
 
 # SpringBoot 部分核心类

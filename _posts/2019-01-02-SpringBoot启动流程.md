@@ -1,6 +1,12 @@
 ---
-tags:
-	-SpringBoot
+layout:     post                    # 使用的布局（不需要改）
+title:      SpringBoot执行流程               # 标题 
+subtitle:     #副标题
+date:       2019-01-04              # 时间
+author:     BY                      # 作者
+catalog: true                       # 是否归档
+tags:                               #标签
+    - Spring Boot
 ---
 # SpringBoot 工作机制
 ​          **SpringBoot 框架是Spring框架对“约定优先于配置”理念的最佳产物**。
